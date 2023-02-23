@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Feb 23 13:25:11 BDT 2023","Thu Feb 23 13:25:16 BDT 2023","5661","Default Suite","Basis-SoftExpo-2023","LogIn","LogIn","userLogin","login into the webpage",""
+"passed","Thu Feb 23 13:25:06 BDT 2023","Thu Feb 23 13:25:10 BDT 2023","4530","Default Suite","Basis-SoftExpo-2023","LogIn","LogIn","logIn","get login page",""
+"passed","Thu Feb 23 13:25:16 BDT 2023","Thu Feb 23 13:25:19 BDT 2023","2643","Default Suite","Basis-SoftExpo-2023","LogIn","LogIn","getEventPage","get Event Page",""
+"passed","Thu Feb 23 13:25:19 BDT 2023","Thu Feb 23 13:25:31 BDT 2023","12398","Default Suite","Basis-SoftExpo-2023","LogIn","LogIn","selectAnEvent","select an event and register",""
